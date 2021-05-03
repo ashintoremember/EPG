@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+</tv>
