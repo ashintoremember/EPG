@@ -1,0 +1,662 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8411/RjRw5k.png" group-title="",PARAMOUNT CHANNEL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7392.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8411/RjRw5k.png" group-title="",PARAMOUNT CHANNEL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7391.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8411/RjRw5k.png" group-title="",PARAMOUNT CHANNEL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7387.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8411/RjRw5k.png" group-title="",PARAMOUNT CHANNEL SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7614.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2898/xHCWil.png" group-title="",PLAY KIDS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7613.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2898/xHCWil.png" group-title="",PLAY KIDS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7612.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2898/xHCWil.png" group-title="",PLAY KIDS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7611.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2936/6BrkSq.png" group-title="",PRIME BOX BRASIL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7380.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2194/3Zzq9i.png" group-title="",RECORD NEWS FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7526.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2194/3Zzq9i.png" group-title="",RECORD NEWS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7379.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO  FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/724.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO  HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/697.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7535.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7522.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO  RJ HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7583.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO  RJ SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7581.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7580.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5998/RqLjzR.png" group-title="",GLOBO  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7579.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/216/kgF54w.png" group-title="",BAND SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7715.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6872/UoylbI.png" group-title="",RECORD FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/710.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6872/UoylbI.png" group-title="",RECORD FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7531.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4127/8i78eG.png" group-title="",SBT FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/709.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4127/8i78eG.png" group-title="",SBT HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/689.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4127/8i78eG.png" group-title="",SBT FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7554.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4127/8i78eG.png" group-title="",SBT HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7515.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1006/4Arqe4.png" group-title="",SPORTV FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/707.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1006/4Arqe4.png" group-title="",SPORTV FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7369.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1006/4Arqe4.png" group-title="",SPORTV HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/688.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1006/4Arqe4.png" group-title="",SPORTV HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7514.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/9705/YBaJm7.png" group-title="",SPORTV 2 FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7371.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/9705/YBaJm7.png" group-title="",SPORTV 2 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7370.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1678/uA8J9q.png" group-title="",SPORTV 3 FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7368.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1678/uA8J9q.png" group-title="",SPORTV 3 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7367.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/4225/QvQvLU.png" group-title="",FOX SPORTS FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/727.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/4225/QvQvLU.png" group-title="",FOX SPORTS HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/698.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/4225/QvQvLU.png" group-title="",FOX SPORTS FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/726.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6851/yptKdK.png" group-title="",FOX SPORTS 2 HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/699.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6851/yptKdK.png" group-title="",FOX SPORTS 2 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7523.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6851/yptKdK.png" group-title="",FOX SPORTS 2 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7669.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/7379/swasi9.png" group-title="",ESPN FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/822.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/7379/swasi9.png" group-title="",ESPN HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/729.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/7379/swasi9.png" group-title="",ESPN HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7506.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7186/nARzaK.png" group-title="",ESPN BRASIL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7445.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7186/nARzaK.png" group-title="",ESPN BRASIL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7444.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7186/nARzaK.png" group-title="",ESPN BRASIL SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7676.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7374/MMdkbW.png" group-title="",BAND SPORTS FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/734.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7374/MMdkbW.png" group-title="",BAND SPORTS FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7557.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7374/MMdkbW.png" group-title="",BAND SPORTS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7714.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7374/MMdkbW.png" group-title="",BAND SPORTS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7713.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6659/RjWsl7.png" group-title="",COMBATE FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/733.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6659/RjWsl7.png" group-title="",COMBATE FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7534.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6659/RjWsl7.png" group-title="",COMBATE HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7699.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6659/RjWsl7.png" group-title="",COMBATE SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7698.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9458/ykkLRX.png" group-title="",PFC 1 FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/715.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9458/ykkLRX.png" group-title="",PFC 1 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/694.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9458/ykkLRX.png" group-title="",PFC 2 FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/714.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9458/ykkLRX.png" group-title="",PFC HD 2
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/692.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9458/ykkLRX.png" group-title="",PFC 3 FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/713.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9458/ykkLRX.png" group-title="",PFC 4 FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/712.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",Premiere 2 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7386.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 2 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7610.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 24 HORAS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7609.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",Premiere 3 FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7385.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",Premiere 3 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7384.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 3 SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7608.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",Premiere 4 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7383.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 4 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7607.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 4 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7606.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 5 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7605.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 5 SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7604.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 6 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7603.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 7 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7602.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 7 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7601.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6919/hTGOGU.png" group-title="",PREMIERE 8 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7600.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1831/nAWDd1.png" group-title="",TELECINE PREMIUM FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/701.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/7113/B56VK3.png" group-title="",TELECINE ACTION FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/704.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/7113/B56VK3.png" group-title="",TELECINE ACTION FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/702.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3233/Wd7msK.png" group-title="",TELECINE FUN FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/703.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2656/NwMuNQ.png" group-title="",TELECINE TOUCH FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/700.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/17/HTbLKi.png" group-title="",HBO  HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/695.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/17/HTbLKi.png" group-title="",HBO 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/722.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4329/UDMEE1.png" group-title="",HBO 2 FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/721.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4329/UDMEE1.png" group-title="",HBO 2 HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/696.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4377/9eUeGl.png" group-title="",HBO PLUS FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/720.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9076/OSmS6a.png" group-title="",MAX PRIM FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/719.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/1487/FOWyeg.png" group-title="",MAX UP FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/736.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3131/mRZh5j.png" group-title="",FX FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/725.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1831/nAWDd1.png" group-title="",TELECINE PREMIUM FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/728.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/9735/H5r5HG.png" group-title="",FOX LIFE FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/732.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7319/JvgAib.png" group-title="",TNT SERIES FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/717.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4758/bHGnWO.png" group-title="",DISCOVERY TURBO FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/730.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6428/vUyYTF.png" group-title="",MEGAPIX FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/718.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1909/n8vaCH.png" group-title="",NAT GEO FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/716.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/8374/gFAn2q.png" group-title="",CARTOON NETWORK FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/731.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9454/qfgrUw.png" group-title="",GLOOB FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/723.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6935/Gp8Hns.png" group-title="",CURTA! SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/819.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3418/6oPDvh.png" group-title="",H2 HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/3263.ts
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7023/GII7gJ.png" group-title="",A&E FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7490.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7023/GII7gJ.png" group-title="",A&E HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7571.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7023/GII7gJ.png" group-title="",A&E SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7570.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8472/G271rO.png" group-title="",AMC FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7488.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8472/G271rO.png" group-title="",AMC HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7569.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8472/G271rO.png" group-title="",AMC SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7568.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/1859/HQfKgZ.png" group-title="",ANIMAL PLANET FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7487.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/1859/HQfKgZ.png" group-title="",ANIMAL PLANET HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7486.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/1859/HQfKgZ.png" group-title="",ANIMAL PLANET SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7565.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6493/0wqIxX.png" group-title="",ARTE 1 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7567.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7339/3ftAI9.png" group-title="",TV APARECIDA
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7809.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9611/cymI4h.png" group-title="",TV RA-TIM-BUM SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7802.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8372/0KriZ8.png" group-title="",VH1 MEGA HITS SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7796.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/1790/n4MtUD.png" group-title="",VH1 SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7797.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7393/BvvZXX.png" group-title="",TRU TV SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7810.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2910/pPDGWP.png" group-title="",AXN FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7484.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2910/pPDGWP.png" group-title="",AXN HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7709.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2910/pPDGWP.png" group-title="",AXN SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7708.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6755/9G9iFV.png" group-title="",BABY TV SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7719.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2568/TILXvQ.png" group-title="",BAND NEWS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7483.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2568/TILXvQ.png" group-title="",BAND NEWS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7716.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3516/bbRzmx.png" group-title="",BIS  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7712.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3516/bbRzmx.png" group-title="",BIS  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7711.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6569/z8v5U5.png" group-title="",BOOMERANG FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7475.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6569/z8v5U5.png" group-title="",BOOMERANG HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7474.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6569/z8v5U5.png" group-title="",BOOMERANG SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7710.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/9519/pzGwqE.png" group-title="",CANAL BRASIL  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7707.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/5360/EYxshT.png" group-title="",OFF FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7473.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/7426/6H5Mlo.png" group-title="",CANAL RURALSD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7706.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7500/43fy5u.png" group-title="",SONY  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7472.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7500/43fy5u.png" group-title="",SONY  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7705.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5519/8Aljow.png" group-title="",TOONCAST HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7812.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5519/8Aljow.png" group-title="",TOONCAST SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7811.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6510/Lfy6G6.png" group-title="",CANCAO NOVA FHD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7471.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6510/Lfy6G6.png" group-title="",CANCAO NOVA HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7470.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6510/Lfy6G6.png" group-title="",CANCAO NOVA HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7704.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6510/Lfy6G6.png" group-title="",CANCAO NOVA SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7703.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/8374/gFAn2q.png" group-title="",CARTOON NETWORK  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7469.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/8374/gFAn2q.png" group-title="",CARTOON NETWORK  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7528.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/8374/gFAn2q.png" group-title="",CARTOON NETWORK  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7468.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/8374/gFAn2q.png" group-title="",CARTOON NETWORK  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7702.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4700/Pc7TvF.png" group-title="",CINEMAX FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7465.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4700/Pc7TvF.png" group-title="",CINEMAX HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7464.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4700/Pc7TvF.png" group-title="",CINEMAX SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7701.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/452/Z03MEM.png" group-title="",COMEDY CENTRAL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7697.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/452/Z03MEM.png" group-title="",COMEDY CENTRAL SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7696.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/452/Z03MEM.png" group-title="",COMEDY CENTRAL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7538.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5083/MkYJ64.png" group-title="",TV CULTURA HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7529.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/6935/Gp8Hns.png" group-title="",CURTA! SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7559.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/8030/UUPypU.png" group-title="",DISCOVERY CHANNEL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7459.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/8030/UUPypU.png" group-title="",DISCOVERY CHANNEL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7695.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/8030/UUPypU.png" group-title="",DISCOVERY CHANNEL SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7694.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/2476/XMRkqm.png" group-title="",DISCOVERY CIVILIZATION FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7458.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/2476/XMRkqm.png" group-title="",DISCOVERY CIVILIZATION HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7457.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/2476/XMRkqm.png" group-title="",DISCOVERY CIVILIZATION SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7693.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/5261/qSiD8H.png" group-title="",DISCOVERY HOME & HEALTH FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7455.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/5261/qSiD8H.png" group-title="",DISCOVERY HOME & HEALTH HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7692.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/5261/qSiD8H.png" group-title="",DISCOVERY HOME & HEALTH SD MAIS
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7691.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5903/HmmmN9.png" group-title="",DISCOVERY KIDS FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7453.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5903/HmmmN9.png" group-title="",DISCOVERY KIDS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7690.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5903/HmmmN9.png" group-title="",DISCOVERY KIDS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7689.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7180/AYe4BJ.png" group-title="",DISCOVERY SCIENCE FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7452.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7180/AYe4BJ.png" group-title="",DISCOVERY SCIENCE HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7688.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7180/AYe4BJ.png" group-title="",DISCOVERY SCIENCE SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7687.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2719/yusGAr.png" group-title="",DISCOVERY THEATER HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7686.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2719/yusGAr.png" group-title="",DISCOVERY THEATER SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7685.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4758/bHGnWO.png" group-title="",DISCOVERY TURBO FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7451.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4758/bHGnWO.png" group-title="",DISCOVERY TURBO HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7450.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/4758/bHGnWO.png" group-title="",DISCOVERY TURBO SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7684.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1548/xK8kR5.png" group-title="",DISCOVERY WORLD HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7683.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1548/xK8kR5.png" group-title="",DISCOVERY WORLD SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7682.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6897/eJxEoM.png" group-title="",DISNEY CHANNEL  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7681.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6897/eJxEoM.png" group-title="",DISNEY CHANNEL  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7680.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3325/Zw6R1Q.png" group-title="",DISNEY JUNIOR  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7449.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3325/Zw6R1Q.png" group-title="",DISNEY JUNIOR  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7679.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3577/yMPQkS.png" group-title="",DISNEY XD HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7678.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3577/yMPQkS.png" group-title="",DISNEY XD SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7677.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3325/Zw6R1Q.png" group-title="",DISNEY JUNIOR HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7446.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9817/CjOYYR.png" group-title=",E! HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7564.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9817/CjOYYR.png" group-title=",E! SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7563.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/3858/Mt1XAp.png" group-title="",TNT 3 SPORTS SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7965.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/8863/VtSbXv.png" group-title="",FISH TV SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7587.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2820/ztnpzD.png" group-title="",FOOD NETWORK FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7436.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2820/ztnpzD.png" group-title="",FOOD NETWORK HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7586.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2820/ztnpzD.png" group-title="",FOOD NETWORK SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7585.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2820/ztnpzD.png" group-title="",FOOD NETWORK HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7419.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5961/d8uien.png" group-title="",FOX FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7434.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5961/d8uien.png" group-title="",FOX HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7433.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5961/d8uien.png" group-title="",FOX HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7584.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/9735/H5r5HG.png" group-title="",FOX LIFE FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7533.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/9735/H5r5HG.png" group-title="",FOX LIFESD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7673.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2319/szpkAa.png" group-title="",FOX PREMIUM 2 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7672.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/3233/nsPHGD.png" group-title="",FOX PREMIUM 1 FHD 1 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7536.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5961/d8uien.png" group-title="",FOX SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7671.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9741/5Kshib.png" group-title="",FUTURA  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7667.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3131/mRZh5j.png" group-title="",FX HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7666.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3131/mRZh5j.png" group-title="",FX SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7665.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9189/NvKiSy.png" group-title="",GLOBO NEWS HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7656.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9189/NvKiSy.png" group-title="",GLOBO NEWS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7655.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2066/4ybWe0.png" group-title="", GLOBOSAT HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7654.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2066/4ybWe0.png" group-title="", GLOBOSAT SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7653.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9454/qfgrUw.png" group-title="",GLOOB HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7652.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9454/qfgrUw.png" group-title="",GLOOB SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7651.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/749/C2Xb4O.png" group-title="",GNT HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7650.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/749/C2Xb4O.png" group-title="",GNT SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7649.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/5830/0ZVbwJ.png" group-title="",GOSPEL CARTOON SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7575.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3418/6oPDvh.png" group-title="",H2 FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7425.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3418/6oPDvh.png" group-title="",H2 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7648.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/3418/6oPDvh.png" group-title="",H2 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7647.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4329/UDMEE1.png" group-title="",HBO 2 FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7424.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4329/UDMEE1.png" group-title="",HBO 2 HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7521.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4329/UDMEE1.png" group-title="",HBO 2 SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7646.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1876/LclxZb.png" group-title="",HBO FAMILY HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7645.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1876/LclxZb.png" group-title="",HBO FAMILY SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7644.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/17/HTbLKi.png" group-title="",HBO FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7423.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/17/HTbLKi.png" group-title="",HBO HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7643.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4377/9eUeGl.png" group-title="",HBO PLUS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7642.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4377/9eUeGl.png" group-title="",HBO PLUS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7641.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/4213/LQ4MhO.png" group-title="",HBO PLUS E HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7640.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/17/HTbLKi.png" group-title="",HBO SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7639.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8205/XuH8jZ.png" group-title="",HBO SIGNATURE HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7638.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/8205/XuH8jZ.png" group-title="",HBO SIGNATURE SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7637.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/903/O0OgwK.png" group-title="",HISTORY CHANNEL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7636.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/903/O0OgwK.png" group-title="",HISTORY CHANNEL SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7635.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/903/O0OgwK.png" group-title="",HISTORY CHANNEL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7422.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/903/O0OgwK.png" group-title="",HISTORY CHANNEL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7421.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2879/nUrxXo.png" group-title="",INVESTIGATION DISCOVERY  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7574.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2879/nUrxXo.png" group-title="",INVESTIGATION DISCOVERY  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7573.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/7373/uPny7p.png" group-title="",LIFETIME  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7592.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/7373/uPny7p.png" group-title="",LIFETIME  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7591.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/9754/yG9wWj.png" group-title="",MAX  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7633.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9076/OSmS6a.png" group-title="",MAX PRIME  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7414.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9076/OSmS6a.png" group-title="",MAX PRIME  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7632.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9076/OSmS6a.png" group-title="",MAX PRIME  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7631.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2540/7UvDJn.png" group-title="",MAX PRIME E SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7630.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/9754/yG9wWj.png" group-title="",MAX SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7629.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/1487/FOWyeg.png" group-title="",MAX UP Fhd 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7558.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/1487/FOWyeg.png" group-title="",MAX UP HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7628.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/1487/FOWyeg.png" group-title="",MAX UP SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7627.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6428/vUyYTF.png" group-title="",MEGAPIX FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7525.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6428/vUyYTF.png" group-title="",MEGAPIX FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7413.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6428/vUyYTF.png" group-title="",MEGAPIX HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7590.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6428/vUyYTF.png" group-title="",MEGAPIX SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7589.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7065/Uj2su5.png" group-title="",MTV HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7626.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7065/Uj2su5.png" group-title="",MTV SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7625.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/660/XPH3oM.png" group-title="",MULTISHOW FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7411.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/660/XPH3oM.png" group-title="",MULTISHOW HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7410.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/660/XPH3oM.png" group-title="",MULTISHOW SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7624.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5362/oLS1Dk.png" group-title="",MUSIC BOX BRASIL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7409.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1909/n8vaCH.png" group-title="",NAT GEO FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7408.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1909/n8vaCH.png" group-title="",NAT GEO FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7524.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6749/T4iD3H.png" group-title="",NATGEO KIDS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7623.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6749/T4iD3H.png" group-title="",NATGEO KIDS SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7622.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2384/PB0ud6.png" group-title="",NAT GEO WILD HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7621.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2384/PB0ud6.png" group-title="",NAT GEO WILD SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7620.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6749/T4iD3H.png" group-title="",NATGEO KIDS FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7407.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6749/T4iD3H.png" group-title="",NATGEO KIDS HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7405.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1909/n8vaCH.png" group-title="",NAT GEO HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7406.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1909/n8vaCH.png" group-title="",NAT GEO SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7619.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7398/NdXHTk.png" group-title="",NICK JR  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7404.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7398/NdXHTk.png" group-title="",NICK JR  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7618.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7398/NdXHTk.png" group-title="",NICK JR  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7617.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7398/NdXHTk.png" group-title="",NICK JR HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7403.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7398/NdXHTk.png" group-title="",NICK JR  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7402.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/8265/PDeOj9.png" group-title="",NICKELODEON HD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7616.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/8265/PDeOj9.png" group-title="",NICKELODEON SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7615.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/263/05tqPX.png" group-title="",TV NOVO TEMPO SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7594.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/5360/EYxshT.png" group-title="",OFF  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7596.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/5360/EYxshT.png" group-title="",OFF  SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7595.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/5360/EYxshT.png" group-title="",OFF HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7396.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7500/43fy5u.png" group-title="",SONY  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7374.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/4523/qL5d8H.png" group-title="",SPACE FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7373.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/4523/qL5d8H.png" group-title="",SPACE HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7372.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/8007/4de8U6.png" group-title="",STUDIO UNIVERSAL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7366.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/8007/4de8U6.png" group-title="",STUDIO UNIVERSAL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7365.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3686/erE412.png" group-title="",SYFY FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7364.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3686/erE412.png" group-title="",SYFY HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7363.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/7139/UsqVIq.png" group-title="",TBS FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7530.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/7113/B56VK3.png" group-title="",TELECINE ACTION FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7548.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/7113/B56VK3.png" group-title="",TELECINE ACTION HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7512.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9025/LNBBIR.png" group-title="",TELECINE CULT FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7362.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9025/LNBBIR.png" group-title="",TELECINE CULTHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7361.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3233/Wd7msK.png" group-title="",TELECINE FUN FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7546.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3233/Wd7msK.png" group-title="",TELECINE FUN HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7511.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7758/D2TXt4.png" group-title="",TELECINE PIPOCA FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7547.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7758/D2TXt4.png" group-title="",TELECINE PIPOCA FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7360.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7758/D2TXt4.png" group-title="",TELECINE PIPOCA HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7510.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1831/nAWDd1.png" group-title="",TELECINE PREMIUM FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7359.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1831/nAWDd1.png" group-title="",TELECINE PREMIUM FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7544.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1831/nAWDd1.png" group-title="",TELECINE PREMIUM HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7509.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2656/NwMuNQ.png" group-title="",TELECINE TOUCH FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7545.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2656/NwMuNQ.png" group-title="",TELECINE TOUCH HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7508.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2350/0THBnQ.png" group-title="",TNT FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7358.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2350/0THBnQ.png" group-title="",TNT HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7357.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7319/JvgAib.png" group-title="",TNT SERIES FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7537.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/1266/Ws3fmQ.png" group-title="",TV BRASILFHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7354.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/1266/Ws3fmQ.png" group-title="",TV BRASIL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7353.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/263/05tqPX.png" group-title="",TV NOVO TEMPO HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7349.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/3150/6HcXYS.png" group-title="",UNIVERSAL CHANNEL FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7348.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/3150/6HcXYS.png" group-title="",UNIVERSAL CHANNEL HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7347.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9166/vFNKx2.png" group-title="",VIVA FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7346.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/9166/vFNKx2.png" group-title="",VIVA HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7345.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4590/EvzjKq.png" group-title="",WARNER CHANNEL  FHD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7527.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4590/EvzjKq.png" group-title="",WARNER CHANNEL  HD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7343.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/7587/QoymSb.png" group-title="",ZOOMOO SD 
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7593.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/4903/AsakzA.png" group-title="",WOOHOO SD
+http://iptvtopmais.ddns.net:27050/live/viniciusmir/viniciusmir/7754.ts
