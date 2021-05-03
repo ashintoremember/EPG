@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <programme start="20210503014000 +0000" stop="20210503024000 +0000" channel="Globo SP">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Camilla, Gilberto ou Juliette: quem será o último eliminado do programa antes da grande final?(n)</desc>
+  </programme>
+  <programme start="20210503024000 +0000" stop="20210503042000 +0000" channel="Globo SP">
+    <title lang="pt">Domingo Maior - Vingança Ao Anoitecer</title>
+    <title lang="en">Dying Of The Light</title>
+    <desc lang="pt">Diagnosticado com demência, Evan Lake, veterano agente da CIA, recebe uma ordem de aposentadoria por invalidez. Ele reluta e ignora o descanso ao descobrir que um terrorista que sempre caçou voltou à ativa, mas enfrenta sérios problemas quando sua visão começa a falhar.(n)</desc>
+  </programme>
+  <programme start="20210503042000 +0000" stop="20210503060000 +0000" channel="Globo SP">
+    <title lang="pt">Cinemaço - Lara Croft: Tomb Raider</title>
+    <title lang="en">Lara Croft: Tomb Raider</title>
+    <desc lang="pt">Explorar impérios perdidos, descobrir tesouros e lutar em combates mortais é o dia-a-dia da aventureira Lara Croft. Mas um antigo segredo do pai leva a moça ao seu maior desafio: o triângulo de luz, uma relíquia lendária que altera tempo e espaço. Lara precisa encontrar o triângulo antes que caia nas mãos de uma sociedade secreta que quer dominar o mundo. Aventura baseada em famoso videogame.(n)</desc>
+  </programme>
+  <programme start="20210503060000 +0000" stop="20210503070000 +0000" channel="Globo SP">
+    <title lang="pt">Corujão I - Tungstênio</title>
+    <title lang="en">Tungstênio</title>
+    <desc lang="pt">Salvador, Bahia. O uso de explosivos para pescar na orla atrai a atenção de Ney, um sargento aposentado que não suporta a falta de ordem e respeito ao seu antigo posto. Ao lado de Caju, ele busca ajuda para prender os pescadores, mas não consegue apoio do exército por ser este um crime ambiental. Após brigar com Ney, Caju liga de um telefone público para o celular do policial Richard, que logo corre para o local de forma a prender os meliantes. Paralelamente, Keila, a esposa de Richard, planeja deixá-lo.(n)</desc>
+  </programme>
+  <programme start="20210503070000 +0000" stop="20210503090000 +0000" channel="Globo SP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210503090000 +0000" stop="20210503113000 +0000" channel="Globo SP">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210503113000 +0000" stop="20210503123000 +0000" channel="Globo SP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210503123000 +0000" stop="20210503134500 +0000" channel="Globo SP">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210503134500 +0000" stop="20210503150000 +0000" channel="Globo SP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210503150000 +0000" stop="20210503160000 +0000" channel="Globo SP">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210503160000 +0000" stop="20210503162500 +0000" channel="Globo SP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210503162500 +0000" stop="20210503174500 +0000" channel="Globo SP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210503174500 +0000" stop="20210503181000 +0000" channel="Globo SP">
+    <title lang="pt">Plantão BBB</title>
+    <desc lang="pt">Plantão que comenta os acontecimentos mais recentes da casa mais vigiada do Brasil.(n)</desc>
+  </programme>
+  <programme start="20210503181000 +0000" stop="20210503194500 +0000" channel="Globo SP">
+    <title lang="pt">Sessao Da Tarde - O Medalhão</title>
+    <title lang="en">The Medallion</title>
+    <desc lang="pt">A história acontece nos dias de hoje e o termo "high binder" se refere a um personagem da mitologia irlandesa que é imortal e tem poderes sobrehumanos. Dois policiais de Hong Kong são designados para prender o líder de tráfico de escravos. Chegam na Irlanda e investigam, mas logo são assassinados por traficantes. Porém, devido a alguns acontecimentos milagrosos, voltam a viver virando guerreiros imortais.(n)</desc>
+  </programme>
+  <programme start="20210503194500 +0000" stop="20210503205500 +0000" channel="Globo SP">
+    <title lang="pt">Vale a Pena Ver de Novo - Ti Ti Ti</title>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho, em São Paulo, e invade as passarelas do glamoroso mundo fashion.(n)</desc>
+  </programme>
+  <programme start="20210503205500 +0000" stop="20210503212500 +0000" channel="Globo SP">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210503212500 +0000" stop="20210503221000 +0000" channel="Globo SP">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210503221000 +0000" stop="20210503224000 +0000" channel="Globo SP">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210503224000 +0000" stop="20210503233000 +0000" channel="Globo SP">
+    <title lang="pt">Salve-se Quem Puder</title>
+    <desc lang="pt">Criada e escrita por Daniel Ortiz, a novela conta a história de Alexia, Luna e Kyra, três mulheres que testemunham um crime, durante um furacão em Cancún, e têm suas vidas completamente transformadas.(n)</desc>
+  </programme>
+  <programme start="20210503233000 +0000" stop="20210504002500 +0000" channel="Globo SP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+</tv>
