@@ -6,6 +6,7 @@
   </channel>
   <channel id="CARTOON NETWORK">
     <display-name lang="pt">CARTOON NETWORK</display-name>
+    <icon src="https://i.pinimg.com/originals/2f/52/0a/2f520a4ff346fb62c4825333b5e6328f.png" />
     <url>http://www.vivo.com.br</url>
   </channel>
   <channel id="Globo SP">
