@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="|BR| GLOBO SP HD">
+    <display-name lang="pt">|BR| GLOBO SP HD</display-name>
+    <icon src="../canais/1617704555.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="|BR| BOOMERANG HD">
+    <display-name lang="pt">|BR| BOOMERANG HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="|BR| CARTOON NETWORK HD">
+    <display-name lang="pt">|BR| CARTOON NETWORK HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
